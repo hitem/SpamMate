@@ -1,0 +1,72 @@
+[
+    [
+        "release",
+        {
+            "type": "Key",
+            "name": "f6"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "4"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "4"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "Key",
+            "name": "f6"
+        }
+    ]
+]

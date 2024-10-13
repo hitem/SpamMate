@@ -1,0 +1,171 @@
+[
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "a"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "s"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "d"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "f"
+        }
+    ]
+]
+

@@ -1,0 +1,44 @@
+[
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "press",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ],
+    [
+        "release",
+        {
+            "type": "KeyCode",
+            "char": "1"
+        }
+    ]
+]
