@@ -17,7 +17,7 @@ This script handles **keyboard input** automation. Use this script to record, sa
 - **[`F5`]**: Opens the load window to select an existing profile.
 - **[`F6`]**: Starts/stops recording keystrokes. Press `F6` once to start recording, and press `F6` again to stop. The profile is saved to `default.json` by default.
 - **[`F7`]**: Exits the application.
-- **[`M4`]**: Triggers the replay of your recorded keystrokes. *You can rebind this key in the script.*
+- **[`M4`]**: Starts and stop the replay of your recorded keystrokes. *You can rebind this key in the script.*
 - **[`F8`]**: Activates key identification mode, displaying each key pressed on screen.
 
 On line 248-250ish you have 2 options to set your prefered delay between keys and the loop.
@@ -27,7 +27,7 @@ This script handles **mouse click** automation, useful for actions such as repet
 ![spammerk](https://github.com/user-attachments/assets/0116b029-1ae4-4c6d-98cc-cdac196194d2)
 
 #### Mouse Controls:
-- **[`F5`]**: Starts the replay of recorded mouse clicks.
+- **[`F5`]**: Starts and stop the replay of recorded mouse clicks.
 - **[`F6`]**: Starts/stops recording mouse clicks. Similar to `spammerk.py`, press `F6` once to start recording and again to stop. The profile is saved to `default.json`.
 - **[`F7`]**: Exits the application.
 
