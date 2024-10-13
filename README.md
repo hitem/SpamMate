@@ -11,6 +11,7 @@ SpamMate is a Python-based macro application designed to record and repeat repet
 
 ### `spammerk.py`
 This script handles **keyboard input** automation. Use this script to record, save, and replay keystroke sequences.
+![spammerk](https://github.com/user-attachments/assets/ed207f07-179a-4796-8422-3f3cfae6416d)
 
 #### Keyboard Controls:
 - **[`F5`]**: Opens the load window to select an existing profile.
@@ -22,7 +23,8 @@ This script handles **keyboard input** automation. Use this script to record, sa
 On line 248-250ish you have 2 options to set your prefered delay between keys and the loop.
 
 ### `spammerm.py`
-This script handles **mouse click** automation, useful for actions such as repetitive clicking in games.
+This script handles **mouse click** automation, useful for actions such as repetitive clicking in games. \
+![spammerk](https://github.com/user-attachments/assets/0116b029-1ae4-4c6d-98cc-cdac196194d2)
 
 #### Mouse Controls:
 - **[`F5`]**: Starts the replay of recorded mouse clicks.
